@@ -6,7 +6,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 |----|-------------------------------------|-------|------|-------|
 | 1  | [Algoritmo Dijkstra][1]                  | C/C++ | Java | Python
 | 2  | [Algoritmo Floyd Warshall][2]             | C/C++ | Java | Python
-| 3  | [Árvore Binária de Busca][3]              | C/C++ | Java | Python
+| 3  | [Árvore Binária de Busca][3]              | [C/C++](./Árvore) | Java | Python
 | 4  | [Árvore Binária Utilizando Classes][4]   | C/C++ | Java | Python
 | 5  | [Busca Binária][5]                       | C/C++ | Java | Python
 | 6  | [Busca em Grafos][6]                      | C/C++ | Java | Python
@@ -21,22 +21,25 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 | 15 | [Fatorial][15]                            | C/C++ | Java | Python
 | 16 | [Fatorial Recursiva][16]                  | C/C++ | Java | Python
 | 17 | [Fibonacci][17]                           | C/C++ | Java | Python
-| 18 | [Fila][18]                                | C/C++ | Java | Python
-| 19 | [Fila Encadeada Dinâmica][19]             | C/C++ | Java | Python
+| 18 | [Fila][18]                                | [C/C++](./Fila) | Java | Python
+| 19 | [Fila Encadeada Dinâmica][19]             | [C/C++](./Fila) | Java | Python
 | 20 | [Grafo][20]                               | C/C++ | Java | Python
-| 21 | Lista Circular Ligada               | | C/C++ | Java | Python
+| 21 | Lista Circular Ligada                     | [C/C++](./Lista%20Encadeada%20Circular) | Java | Python
 | 22 | [Lista Encadeada][22]                     | C/C++ | Java | Python
-| 23 | [Lista Duplamente Encadeada][23]          | C/C++ | Java | Python
-| 24 | [Lista Ligada Não Ordenada][24]           | C/C++ | Java | Python
-| 25 | Lista Sequencial Ordenada           | C/C++ | Java | Python
+| 23 | [Lista Duplamente Encadeada][23]          | [C/C++](./Lista%20Duplamente%20Encadeada) | Java | Python
+| 24 | [Lista Ligada Não Ordenada][24]           | [C/C++](./Lista%20Encadeada) | Java | Python
+| 25 | Lista Sequencial Ordenada           | [C/C+](./Lista%20Encadeada) | Java | Python
 | 26 | [Máximo Recursivo][26]                    | C/C++ | Java | Python
 | 27 | [Mínimo e Máximo Iterativo][27]           | C/C++ | Java | Python
 | 28 | [Mínimo e Máximo Recursivo][28]           | C/C++ | Java | Python
 | 29 | Mínimo e Máximo Divisão e Conquista | C/C++ | Java | Python
 | 30 | [Passeio do Cavalo][30]                   | C/C++ | Java | Python
-| 31 | [Pilha][31]                               | C/C++ | Java | Python
-| 32 | Pilha Ligada Dinâmica               | C/C++ | Java | Python
+| 31 | [Pilha][31]                               | [C/C++](./Pilha) | Java | Python
+| 32 | Pilha Ligada Dinâmica               | [C/C++](./Pilha) | Java | Python
 | 33 | [Torre de Hanói][33]                      | C/C++ | Java | Python
+| 34 | [Deque][49]                               | [C/C++](./Deque) | Java | Python
+| 35 | [Lista Duplamente Encadeada Circular][50]          | [C/C++](./Lista%20Duplamente%20Encadeada%20Circular) | Java | Python
+| 36 | [Lista Estática][51]                      | [C/C++](./Lista%20Estática) | Java | Python
 
 |    | Algoritmos de Ordenação             | C/C++ | Java | Python |
 |----|-------------------------------------|-------|------|--------|
@@ -60,8 +63,9 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 |----|-------------------------------------|-------|------|-------|
 | 49 | Lista com 2 Pilhas                  | C/C++ | Java | Python
 | 50 | Problema da Soma de 2 Números       | C/C++ | Java | Python
+| 51 | [Palíndromo][52]                          | [C/C++](./Pilha/Palindromo.c) | Java | Python
 
-### Quem tiver interesse em colaborar basta enviar um *pull request* com seu algoritmo/correção. :blush:
+### Interessados em colaborar basta enviar um *pull request* com seu algoritmo/correção. :blush:
 
 [1]: https://pt.wikipedia.org/wiki/Algoritmo_de_Dijkstra
 [2]: https://pt.wikipedia.org/wiki/Algoritmo_de_Floyd-Warshall
@@ -106,3 +110,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 [46]: https://pt.wikipedia.org/wiki/Radix_sort
 [47]: https://pt.wikipedia.org/wiki/Selection_sort
 [48]: https://pt.wikipedia.org/wiki/Shell_sort
+[49]: https://pt.wikipedia.org/wiki/Deque_(estruturas_de_dados)
+[50]: https://www.youtube.com/playlist?list=PL3ZslI15yo2q_YwSxugrq_hfFOK4h4RU0
+[51]: http://wiki.icmc.usp.br/images/a/ac/Lista_Sequencial_Estatica_09.pdf
+[52]: https://pt.wikipedia.org/wiki/Pal%C3%ADndromo
