@@ -61,9 +61,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 
 |    | Extra                               | C/C++ | Java | Python
 |----|-------------------------------------|-------|------|-------|
-| 49 | Lista com 2 Pilhas                  | C/C++ | Java | Python
-| 50 | Problema da Soma de 2 Números       | C/C++ | Java | Python
-| 51 | [Palíndromo][52]                          | [C/C++](./Pilha/Palindromo.c) | Java | Python
+| 49 | [Palíndromo][52]                          | [C/C++](./Pilha/Palindromo.c) | Java | Python
 
 ### Interessados em colaborar basta enviar um *pull request* com seu algoritmo/correção. :blush:
 
