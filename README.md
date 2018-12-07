@@ -28,6 +28,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 |    | Extra                               | C/C++ | Java | Python
 |----|-------------------------------------|-------|------|-------|
 | 19 | [Palíndromo][9]                          | [C/C++](./Pilha/Palindromo.c) | Java | Python
+| 20 | [Fatorial Recursivo][10]                          | [C/C++](./Extra/fatorial-recursivo.c) | Java | Python
 
 ### Interessados em colaborar basta enviar um *pull request* com seu algoritmo/correção. :blush:
 
@@ -40,3 +41,4 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 [7]: https://pt.wikipedia.org/wiki/Deque_(estruturas_de_dados)
 [8]: http://wiki.icmc.usp.br/images/a/ac/Lista_Sequencial_Estatica_09.pdf
 [9]: https://pt.wikipedia.org/wiki/Pal%C3%ADndromo 
+[10]: https://pt.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursive-factorial
