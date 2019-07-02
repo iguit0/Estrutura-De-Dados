@@ -1,4 +1,4 @@
-<h1 align="center">:open_file_folder: Algoritmos e Estruturas de Dados :computer:</h1>
+<h1 align="center">Algoritmos e Estruturas de Dados :computer::open_file_folder:</h1>
 
 Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estruturas de Dados.
 
