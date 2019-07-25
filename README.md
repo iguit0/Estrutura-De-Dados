@@ -21,7 +21,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 | 13 | [Inverte Pilha][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
 | 14 | [Inverte Fila][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
 
-### Interessados(as) em colaborar basta enviar um *pull request* com seu algoritmo/correção. :blush:
+### Interessados(as) em colaborar basta enviar um [pull request](https://github.com/iguit0/EstruturasDeDados/pull/new/master) com seu algoritmo/correção. :blush:
 
 [1]: https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria_de_busca
 [2]: https://pt.wikipedia.org/wiki/FIFO
