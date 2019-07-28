@@ -20,8 +20,8 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 | 12 | [Fatorial Recursivo][10]                          | [C/C++](./Extra/fatorial-recursivo.c) | Java | [Python](./Extra/fatorial.py)
 | 13 | [Inverte Pilha][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
 | 14 | [Inverte Fila][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
-| 15 | Fila com 2 Pilhas                          | C/C++ | Java | Python
-| 16 | Problema da Soma de 2 Números              | C/C++ | Java | Python
+| 15 | Fila com 2 Pilhas                          | C/C++ | Java | [Python](./Extra/fila2pilhas.py)
+| 16 | Problema da Soma de 2 Números              | C/C++ | Java | [Python](./Extra/soma2numeros.py)
 
 ### Interessados(as) em colaborar basta enviar um [pull request](https://github.com/iguit0/EstruturasDeDados/pull/new/master) com seu algoritmo/correção. :blush:
 
