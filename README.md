@@ -2,7 +2,7 @@
 
 Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estruturas de Dados.
 
-|    | Algoritmo                           | C/C++ | Java | Python
+| # | Algoritmo                           | C/C++ | Java | Python
 |----|-------------------------------------|-------|------|-------|
 | 1  | [Árvore][1]              | [C/C++](./Árvore) | Java | Python
 | 2 | [Fila][2]                                | [C/C++](./Fila) | Java | [Python](./Fila/Dinâmica/Fila.py)
