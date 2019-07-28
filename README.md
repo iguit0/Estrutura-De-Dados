@@ -17,7 +17,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 |----|-------------------------------------|-------|------|-------|
 | 10 | [Palíndromo Pilha][9]                          | [C/C++](./Pilha/Dinâmica/Palindromo.c) | Java | Python
 | 11 | [Palíndromo Deque][9]                          | [C/C++](./Deque/ProblemaPalindromoDeque.c) | Java | Python
-| 12 | [Fatorial Recursivo][10]                          | [C/C++](./Extra/fatorial-recursivo.c) | Java | Python
+| 12 | [Fatorial Recursivo][10]                          | [C/C++](./Extra/fatorial-recursivo.c) | Java | [Python](./Extra/fatorial.py)
 | 13 | [Inverte Pilha][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
 | 14 | [Inverte Fila][11]                          | [C/C++](./Extra/inverte-pilha-fila.c) | Java | Python
 
