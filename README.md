@@ -5,7 +5,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 | # | Algoritmo                           | C/C++ | Java | Python
 |----|-------------------------------------|-------|------|-------|
 | 1  | [Árvore][1]              | [C/C++](./Árvore) | Java | Python
-| 2 | [Fila][2]                                | [C/C++](./Fila) | Java | [Python](./Fila/Dinâmica/Fila.py)
+| 2 | [Fila][2]                                | [C/C++](./Fila) | [Java](./Fila/Dinmica/Fila.java) | [Python](./Fila/Dinâmica/Fila.py)
 | 4 | [Lista Encadeada Circular][3]                     | [C/C++](./Lista%20Encadeada/Circular) | Java | Python
 | 5 | [Lista Encadeada][4]                    | [C/C++](./Lista%20Encadeada/ListaEncadeada.c) | Java | [Python](./Lista%20Encadeada/listaencadeada.py)
 | 6 | [Lista Duplamente Encadeada][5]          | [C/C++](./Lista%20Duplamente%20Encadeada) | Java | Python
