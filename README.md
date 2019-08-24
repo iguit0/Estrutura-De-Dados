@@ -23,6 +23,7 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 | 15 | Fila com 2 Pilhas                          | C/C++ | Java | [Python](./Extra/fila2pilhas.py)
 | 16 | Problema da Soma de 2 Números              | C/C++ | Java | [Python](./Extra/soma2numeros.py)
 | 17 | [Componentes Conexos][12]              | [C/C++](./Extra/componentesconexos.c) | Java | Python
+| 18 | [Exponenciação][13]              | C/C++ | Java | [Python](./Extra/exponenciacao.py)
 
 ### Interessados(as) em colaborar basta enviar um [pull request](https://github.com/iguit0/EstruturasDeDados/pull/new/master) com seu algoritmo/correção. :blush:
 
@@ -38,3 +39,4 @@ Algoritmos em C/C++, Java, Python desenvolvidos como estudo de Algoritmos e Estr
 [10]: https://pt.khanacademy.org/computing/computer-science/algorithms/recursive-algorithms/a/recursive-factorial
 [11]: https://www.youtube.com/watch?v=WEc5YbLORUk
 [12]: https://pt.wikipedia.org/wiki/Conectividade_(teoria_dos_grafos)
+[13]: https://pt.wikipedia.org/wiki/Exponencia%C3%A7%C3%A3o
